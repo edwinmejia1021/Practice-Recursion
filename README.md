@@ -14,4 +14,4 @@ In this program, I have implemented a couple programs that will showcase my know
 
 6. AddToSum - The program will take in an array of integers and a target sum and print out a subset of integers from the array that will add up to the target (if possible). 
 
-7. NumberSubset
+7. NumberSubsetSum - It will return the total number of subsets that add up to the target sum.
